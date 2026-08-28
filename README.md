@@ -17,7 +17,7 @@ Ruby · Rails · Sidekiq · Redis · PostgreSQL · RSpec · Hotwire · Elasticse
 
 ## Links
 
-- LinkedIn: [linkedin.com/in/arturo-morcillo](www.linkedin.com/in/arturo-morcillo-24095a159/)
+- LinkedIn: [linkedin.com/in/arturo-morcillo-24095a159](www.linkedin.com/in/arturo-morcillo-24095a159/)
 - Email: arturo.morcillo@proton.me
 
 Open to remote roles in EMEA (employment or contractor).
